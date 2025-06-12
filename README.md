@@ -9,6 +9,9 @@ modified: blackrobotics.co/solE
 보드 라이브러리 버젼 3.2.0이상에서 사용할 수 있게 수정
 수정: 블랙로보틱스/solE
 
+원본은 다음과 같습니다
+https://github.com/rodneybakiskan/ps5-esp32
+
 
 Use a ps5 controller with an ESP32.
 
