@@ -1,4 +1,15 @@
 # ps5-esp32
+
+2025 / jun / 13
+Modify and redistribute the following
+Redistributed with modifications for use with board library versions 3.2.0 and later.
+modified: blackrobotics.co/solE
+
+다음 사항을 수정하여 재배포합니다.
+보드 라이브러리 버젼 3.2.0이상에서 사용할 수 있게 수정
+수정: 블랙로보틱스/solE
+
+
 Use a ps5 controller with an ESP32.
 
 This is heavily based on the work of Jeffery Pernis to connect a PS3 controller to an ESP32, and the PS4-esp32 library. 
